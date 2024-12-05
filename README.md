@@ -51,7 +51,7 @@
     
 
 ## Proje Yapısı
-
+'''
 
 lib/
 ├── modeller/     # Veri modelleri
@@ -60,7 +60,7 @@ lib/
 ├── servisler/    # API servisleri
 └── yardımcılar/  # Yardımcı fonksiyonlar
 
-
+'''
 ## Ekran Görüntüleri
 
   
